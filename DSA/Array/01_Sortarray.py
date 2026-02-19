@@ -10,4 +10,8 @@ def sort_array(arr):
                 arr[i], arr[j] = arr[j], arr[i]
     return arr
 
-print(sort_array(arr))
+storeArr = sort_array(arr)
+print(arr)
+print(storeArr)
+print(arr[-1])
+print(storeArr[-1])

@@ -1,7 +1,7 @@
 n = int(input())
 arr= []
 for i in range(n):
-    arr.append(int(input()))
+    arr.append(int(input())) # [5, 2, 9, 1, 5, 6]
 
 def sort_array(arr):
     for i in range(len(arr)):

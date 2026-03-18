@@ -5,7 +5,7 @@ fac1 = fac
 
 for i in range(1,num):
     fac = fac * num
-    num -= 1
+    num -= 1 # 5, 4, 3, 2, 1
 
 while num1 > 0:
     fac1 = fac1 *num1

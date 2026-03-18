@@ -5,4 +5,5 @@ for i in range(n):
 
 arr.sort()
 print(arr)
-print(arr[-1])
+print(arr[-1]) # Print the largest element
+print(arr[-2]) # Print the second largest element
